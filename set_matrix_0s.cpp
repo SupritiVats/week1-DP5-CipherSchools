@@ -40,6 +40,7 @@
     }
 int main() {
 
+
 int m,n;
 
 cout<<"enter the n:"<<endl;
