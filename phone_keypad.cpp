@@ -58,7 +58,7 @@ int main(int argc, char *argv[])
                         {'4','5','6'},
                         {'7','8','9'},
                         {'*','0','#'}};
-   cout<<"1"<<getCount(keypad, 1);
+
    printf("Count for numbers of length %d: %dn \n", 1, getCount(keypad, 1));
    printf("Count for numbers of length %d: %dn \n", 2, getCount(keypad, 2));
    printf("Count for numbers of length %d: %dn \n", 3, getCount(keypad, 3));
